@@ -1,6 +1,7 @@
 .logo-project {
   background-color: var(--accent-color);
   padding: 100px 0;
+  height: 250px;
 }
 
 .text-h1-logo {
